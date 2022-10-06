@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    margin-top: 250px;
+}
+
+.heading {
+
+    color: black;
+    font-size: 40px;
+    text-align: center;
+}
+
+.convert {
+    color: black;
+    font-size: 30px;
+}
+
+.celsius {
+    font-size: 20px;
+}
+
+.fahrenheit {
+    font-size: 20px;
+
+
+}
+
+#fRadio {
+    margin-left: 30px;
+}
+
+#submitButton {
+    height: 40px;
+    width: 130px;
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#tempLabel {
+    font-size: 30px;
+    color: blue;
+}
+
+#textBox {
+    width: 200px;
+    height: 30px;
+}
