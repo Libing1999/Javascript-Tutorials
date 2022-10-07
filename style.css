@@ -1,0 +1,53 @@
+#bulbstatus {
+    margin-top: 150px;
+    text-align: center;
+    color: brown;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#bulb {
+    height: 350px;
+    width: 300px;
+    margin-left: 600px;
+}
+
+.myButton {
+    height: 45px;
+    width: 110px;
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+    background-color: white;
+    margin-left: 650px;
+    border-radius: 20px;
+
+}
+
+.myButton:hover {
+    background-color: rgb(38, 0, 255);
+    color: black;
+}
+
+.myButton1 {
+    height: 45px;
+    width: 100px;
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+
+}
+
+.myButton1:hover {
+    background-color: rgb(38, 0, 255);
+    color: black;
+}
+
+#bulbStatus {
+    font-size: 40px;
+    margin-left: 620px;
+    font-weight: bolder;
+    color: red;
+}
