@@ -13,8 +13,13 @@
     <div>
         <h1 id="bulbstatus"><u>Bulb ON/OFF in JavaScript</u></h1>
         <img id="bulb" src="/images/bulb1.png"><br><br>
-        <input type="button" class="myButton" value="ON" onclick="bulbon()">
-        <input type="button" class="myButton1" value="OFF" onclick="bulboff()"> <br><br>
+
+
+        <label class="switch">
+            <input type="checkbox">
+
+            <span class="slider" onclick="bulbOn()"></span>
+        </label><br><br>
         <label id="bulbStatus"></label>
 
         <script src="/function.js"></script>
